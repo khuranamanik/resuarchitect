@@ -1,2 +1,5 @@
 # resuarchitect
-Resume Architect
+ResuArchitect - Implementation and Deployment of a resume-building web application using DevOps.
+
+## Abstract 
+In this rapidly developing world, an ample amount of professionalism is required in every work environment. Therefore, any recruitment process nowadays requires a resume but the candidates aren’t familiar with the proper format for building one. Though some people even find a format over the web and design a resume for themselves they miss out on some of the crucial details like alignment, line spacing, bulleting and indentation. A resume is a balance of design and content. Our resume builder is recommended for everyone who lacks the time and design skills to create a professional resume from scratch. The software will ask for the desired information and that particular information will be used accordingly in any of the templates available within the application. This will enable anyone to generate multiple resumes for different purposes appropriately. The application will be built based on DevOps methodology and the backend will be based on node.js and the user interface would be made over react.js.
